@@ -1,0 +1,773 @@
+,Route_link,Route_name,Bus_name,Bus_type,Dep_time,Duration,Arr_time,Rating,Price,Seat_avail
+0,https://www.redbus.in/bus-tickets/jammu-to-srinagar,Jammu (j and k) to Srinagar,New Pal Travels,NON A/C Seater / Sleeper (2+2),21:15,10h 00m,07:15,1.4,0,"36 Seats available
+18 Window"
+1,https://www.redbus.in/bus-tickets/jammu-to-srinagar,Jammu (j and k) to Srinagar,North Kashmir Tour and Travels,NON A/C Sleeper (2+2),16:30,10h 00m,02:30,1.0,699,"40 Seats available
+20 Window"
+2,https://www.redbus.in/bus-tickets/jammu-to-srinagar,Jammu (j and k) to Srinagar,Jamna Travels-Jammu,Non AC Seater (2+2),21:30,10h 30m,08:00,2.3,0,"26 Seats available
+13 Window"
+3,https://www.redbus.in/bus-tickets/jammu-to-srinagar,Jammu (j and k) to Srinagar,North Kashmir Tour and Travels,NON A/C Sleeper (2+2),17:15,10h 00m,03:15,1.0,699,"40 Seats available
+20 Window"
+4,https://www.redbus.in/bus-tickets/jammu-to-srinagar,Jammu (j and k) to Srinagar,New Pal Travels,NON A/C Seater / Sleeper (2+2),21:15,10h 00m,07:15,1.4,0,"36 Seats available
+18 Window"
+5,https://www.redbus.in/bus-tickets/jammu-to-srinagar,Jammu (j and k) to Srinagar,North Kashmir Tour and Travels,NON A/C Sleeper (2+2),16:30,10h 00m,02:30,1.0,699,"40 Seats available
+20 Window"
+6,https://www.redbus.in/bus-tickets/jammu-to-srinagar,Jammu (j and k) to Srinagar,Jamna Travels-Jammu,Non AC Seater (2+2),21:30,10h 30m,08:00,2.3,0,"26 Seats available
+13 Window"
+7,https://www.redbus.in/bus-tickets/jammu-to-srinagar,Jammu (j and k) to Srinagar,North Kashmir Tour and Travels,NON A/C Sleeper (2+2),17:15,10h 00m,03:15,1.0,699,"40 Seats available
+20 Window"
+8,https://www.redbus.in/bus-tickets/jammu-to-srinagar,Jammu (j and k) to Srinagar,New Pal Travels,NON A/C Seater / Sleeper (2+2),21:15,10h 00m,07:15,1.4,0,"36 Seats available
+18 Window"
+9,https://www.redbus.in/bus-tickets/jammu-to-srinagar,Jammu (j and k) to Srinagar,North Kashmir Tour and Travels,NON A/C Sleeper (2+2),16:30,10h 00m,02:30,1.0,699,"40 Seats available
+20 Window"
+10,https://www.redbus.in/bus-tickets/jammu-to-srinagar,Jammu (j and k) to Srinagar,Jamna Travels-Jammu,Non AC Seater (2+2),21:30,10h 30m,08:00,2.3,0,"26 Seats available
+13 Window"
+11,https://www.redbus.in/bus-tickets/jammu-to-srinagar,Jammu (j and k) to Srinagar,North Kashmir Tour and Travels,NON A/C Sleeper (2+2),17:15,10h 00m,03:15,1.0,699,"40 Seats available
+20 Window"
+12,https://www.redbus.in/bus-tickets/jammu-to-haridwar,Jammu (j and k) to Haridwar,City Land Travels,A/C Seater/Sleeper (2+1),18:00,12h 20m,06:20,3.1,0,"18 Seats available
+7 Single"
+13,https://www.redbus.in/bus-tickets/jammu-to-haridwar,Jammu (j and k) to Haridwar,City Land Travels,A/C Seater/Sleeper (2+1),20:30,12h 30m,09:00,3.4,0,"23 Seats available
+8 Single"
+14,https://www.redbus.in/bus-tickets/jammu-to-haridwar,Jammu (j and k) to Haridwar,City Land Travels,A/C Seater/Sleeper (2+1),18:00,12h 20m,06:20,3.1,0,"18 Seats available
+7 Single"
+15,https://www.redbus.in/bus-tickets/jammu-to-haridwar,Jammu (j and k) to Haridwar,City Land Travels,A/C Seater/Sleeper (2+1),20:30,12h 30m,09:00,3.4,0,"23 Seats available
+8 Single"
+16,https://www.redbus.in/bus-tickets/jammu-to-haridwar,Jammu (j and k) to Haridwar,City Land Travels,A/C Seater/Sleeper (2+1),18:00,12h 20m,06:20,3.1,0,"18 Seats available
+7 Single"
+17,https://www.redbus.in/bus-tickets/jammu-to-haridwar,Jammu (j and k) to Haridwar,City Land Travels,A/C Seater/Sleeper (2+1),20:30,12h 30m,09:00,3.4,0,"23 Seats available
+8 Single"
+18,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Gola Bus Service,A/C Seater/Sleeper (2+1),20:20,11h 30m,07:50,4.8,399,"29 Seats available
+5 Single"
+19,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),21:30,11h 30m,09:00,4.6,0,29 Seats available
+20,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),20:15,11h 45m,08:00,4.5,0,"36 Seats available
+10 Single"
+21,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,AdFlixBus,A/C Sleeper (2+1),22:30,12h 35m,11:05,3.9,471,26 Seats available
+22,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,,,,,,,,
+23,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Gola Bus Service,A/C Seater/Sleeper (2+1),20:20,11h 30m,07:50,4.8,399,"29 Seats available
+5 Single"
+24,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),21:30,11h 30m,09:00,4.6,0,29 Seats available
+25,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),20:15,11h 45m,08:00,4.5,0,"36 Seats available
+10 Single"
+26,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,AdFlixBus,A/C Sleeper (2+1),22:30,12h 35m,11:05,3.9,471,26 Seats available
+27,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),20:00,11h 45m,07:45,4.5,499,"24 Seats available
+7 Single"
+28,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),21:15,11h 15m,08:30,4.5,0,32 Seats available
+29,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),20:10,11h 40m,07:50,4.6,0,15 Seats available
+30,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,AdLaxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),17:35,11h 55m,05:30,4.3,0,"29 Seats available
+2 Single"
+31,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,R S YADAV SMART BUS PRIVATE LIMITED,VE A/C Seater / Sleeper (2+1),21:00,10h 50m,07:50,4.6,499,39 Seats available
+32,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),18:15,11h 45m,06:00,4.5,0,29 Seats available
+33,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:45,11h 15m,06:00,4.3,0,"32 Seats available
+9 Single"
+34,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Yolo Bus,A/C Seater/Sleeper (2+1),21:01,10h 58m,07:59,4.6,449,27 Seats available
+35,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Ram Dalal Holidays,A/C Seater/Sleeper (2+1),20:15,11h 15m,07:30,4.5,0,18 Seats available
+36,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),17:30,10h 00m,03:30,0,0,36 Seats available
+37,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),18:00,12h 00m,06:00,4.2,474,35 Seats available
+38,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Travel Point,A/C Seater / Sleeper (2+2),15:45,13h 15m,05:00,3.8,0,"39 Seats available
+19 Window"
+39,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Ashok Bus Service,VE A/C Seater / Sleeper (2+1),20:30,12h 00m,08:30,4.1,499,"37 Seats available
+20 Window"
+40,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Lavish Travels,A/C Seater / Sleeper (2+2),16:35,12h 55m,05:30,3.6,0,"32 Seats available
+15 Window"
+41,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Awadh Travels,A/C Sleeper (2+2),20:55,11h 45m,08:40,4.7,0,"42 Seats available
+21 Window"
+42,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,DS Hari Travels,A/C Seater / Sleeper (2+2),21:30,11h 45m,09:15,3.0,499,"48 Seats available
+24 Window"
+43,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,B S Holiday Travels,A/C Seater / Sleeper (2+2),22:10,10h 50m,09:00,5.0,0,34 Seats available
+44,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Jamna Travels-Jammu,A/C Seater / Sleeper (2+2),20:30,11h 30m,08:00,1.9,949,"30 Seats available
+15 Window"
+45,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Khurana Bus Service,Volvo A/C (2+2),13:15,13h 25m,02:40,3.2,0,"27 Seats available
+13 Window"
+46,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Jamna Travels (Delhi),A/C Seater / Sleeper (2+2),18:30,12h 30m,07:00,3.3,999,"24 Seats available
+12 Window"
+47,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Travel Point,A/C Seater / Sleeper (2+2),18:30,13h 15m,07:45,3.9,0,"50 Seats available
+26 Window"
+48,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,RK Holiday,A/C Seater / Sleeper (2+2),20:50,11h 40m,08:30,2.9,0,"26 Seats available
+13 Window"
+49,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,RK Holiday,A/C Seater / Sleeper (2+2),20:45,11h 40m,08:25,2.9,0,"30 Seats available
+15 Window"
+50,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Deltin Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:30,12h 30m,10:00,4.3,550,27 Seats available
+51,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,BSS COOL COOL TRAVELS,A/C Seater / Sleeper (2+2),20:15,12h 00m,08:15,3.8,699,11 Seats available
+52,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Jamna Travels (Delhi),A/C Seater / Sleeper (2+2),21:00,13h 26m,10:26,2.5,949,"24 Seats available
+12 Window"
+53,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Jamna Travels (Delhi),VE A/C Sleeper (2+1),21:45,10h 00m,07:45,2.6,1199,"46 Seats available
+26 Window"
+54,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Big Bus,A/C Seater / Sleeper (2+2),23:00,11h 00m,10:00,1.4,799,"32 Seats available
+16 Window"
+55,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),22:30,10h 00m,08:30,1.2,0,34 Seats available
+56,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Travel Point World LLP,A/C Seater / Sleeper (2+2),17:16,12h 30m,05:46,1.4,0,"46 Seats available
+23 Window"
+57,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Shub Yatra Holidays,A/C Sleeper (2+2),21:15,12h 45m,10:00,2.4,2399,"28 Seats available
+15 Window"
+58,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,FlixBus,A/C Sleeper (2+1),20:00,12h 20m,08:20,3.9,443,17 Seats available
+59,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Shiv Mohan Travels,AC Sleeper (2+1),20:30,12h 00m,08:30,3.7,0,36 Seats available
+60,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Lucky Bus Service,VE A/C Sleeper (2+2),21:15,10h 00m,07:15,3.6,1599,"32 Seats available
+16 Window"
+61,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Apex Bus Travels,A/C Seater / Sleeper (2+2),20:00,14h 00m,10:00,3.4,0,"52 Seats available
+26 Window"
+62,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Ashok Travels,A/C Seater / Sleeper (2+2),17:30,12h 30m,06:00,2.5,759,"52 Seats available
+27 Window"
+63,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,SHAH HOLIDAY TRAVEL,Bharat Benz A/C Seater / Sleeper (2+2),21:00,11h 00m,08:00,2.5,1499,22 Seats available
+64,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Armaan Tour & Travels,A/C Seater / Sleeper (2+1),16:00,14h 00m,06:00,2.4,0,"31 Seats available
+5 Single"
+65,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Travel Point World LLP,A/C Seater / Sleeper (2+2),20:00,12h 15m,08:15,1.7,0,"46 Seats available
+23 Window"
+66,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Big Bus,A/C Seater / Sleeper (2+2),21:00,11h 00m,08:00,1.4,799,"34 Seats available
+17 Window"
+67,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Big Bus,A/C Seater / Sleeper (2+2),18:30,11h 00m,05:30,1.4,795,"28 Seats available
+14 Window"
+68,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Sahiba Travels India Sahiba Bus Service Regd,A/C Sleeper (2+2),21:30,12h 01m,09:31,1.0,1800,22 Seats available
+69,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Gola Bus Service,A/C Seater/Sleeper (2+1),20:20,11h 30m,07:50,4.8,399,"29 Seats available
+5 Single"
+70,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),21:30,11h 30m,09:00,4.6,0,29 Seats available
+71,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),20:15,11h 45m,08:00,4.5,0,"36 Seats available
+10 Single"
+72,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,AdFlixBus,A/C Sleeper (2+1),22:30,12h 35m,11:05,3.9,471,26 Seats available
+73,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),20:00,11h 45m,07:45,4.5,499,"24 Seats available
+7 Single"
+74,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),21:15,11h 15m,08:30,4.5,0,32 Seats available
+75,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),20:10,11h 40m,07:50,4.6,0,15 Seats available
+76,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,AdLaxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),17:35,11h 55m,05:30,4.3,0,"29 Seats available
+2 Single"
+77,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,R S YADAV SMART BUS PRIVATE LIMITED,VE A/C Seater / Sleeper (2+1),21:00,10h 50m,07:50,4.6,499,39 Seats available
+78,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),18:15,11h 45m,06:00,4.5,0,29 Seats available
+79,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:45,11h 15m,06:00,4.3,0,"32 Seats available
+9 Single"
+80,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Yolo Bus,A/C Seater/Sleeper (2+1),21:01,10h 58m,07:59,4.6,449,27 Seats available
+81,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Ram Dalal Holidays,A/C Seater/Sleeper (2+1),20:15,11h 15m,07:30,4.5,0,18 Seats available
+82,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),17:30,10h 00m,03:30,0,0,36 Seats available
+83,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),18:00,12h 00m,06:00,4.2,474,35 Seats available
+84,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Travel Point,A/C Seater / Sleeper (2+2),15:45,13h 15m,05:00,3.8,0,"39 Seats available
+19 Window"
+85,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Ashok Bus Service,VE A/C Seater / Sleeper (2+1),20:30,12h 00m,08:30,4.1,499,"37 Seats available
+20 Window"
+86,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Lavish Travels,A/C Seater / Sleeper (2+2),16:35,12h 55m,05:30,3.6,0,"32 Seats available
+15 Window"
+87,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Awadh Travels,A/C Sleeper (2+2),20:55,11h 45m,08:40,4.7,0,"42 Seats available
+21 Window"
+88,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,DS Hari Travels,A/C Seater / Sleeper (2+2),21:30,11h 45m,09:15,3.0,499,"48 Seats available
+24 Window"
+89,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,B S Holiday Travels,A/C Seater / Sleeper (2+2),22:10,10h 50m,09:00,5.0,0,34 Seats available
+90,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Jamna Travels-Jammu,A/C Seater / Sleeper (2+2),20:30,11h 30m,08:00,1.9,949,"30 Seats available
+15 Window"
+91,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Khurana Bus Service,Volvo A/C (2+2),13:15,13h 25m,02:40,3.2,0,"27 Seats available
+13 Window"
+92,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Jamna Travels (Delhi),A/C Seater / Sleeper (2+2),18:30,12h 30m,07:00,3.3,999,"24 Seats available
+12 Window"
+93,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Travel Point,A/C Seater / Sleeper (2+2),18:30,13h 15m,07:45,3.9,0,"50 Seats available
+26 Window"
+94,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,RK Holiday,A/C Seater / Sleeper (2+2),20:50,11h 40m,08:30,2.9,0,"26 Seats available
+13 Window"
+95,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,RK Holiday,A/C Seater / Sleeper (2+2),20:45,11h 40m,08:25,2.9,0,"30 Seats available
+15 Window"
+96,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Deltin Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:30,12h 30m,10:00,4.3,550,27 Seats available
+97,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,BSS COOL COOL TRAVELS,A/C Seater / Sleeper (2+2),20:15,12h 00m,08:15,3.8,699,11 Seats available
+98,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Jamna Travels (Delhi),A/C Seater / Sleeper (2+2),21:00,13h 26m,10:26,2.5,949,"24 Seats available
+12 Window"
+99,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Jamna Travels (Delhi),VE A/C Sleeper (2+1),21:45,10h 00m,07:45,2.6,1199,"46 Seats available
+26 Window"
+100,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Big Bus,A/C Seater / Sleeper (2+2),23:00,11h 00m,10:00,1.4,799,"32 Seats available
+16 Window"
+101,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),22:30,10h 00m,08:30,1.2,0,34 Seats available
+102,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Travel Point World LLP,A/C Seater / Sleeper (2+2),17:16,12h 30m,05:46,1.4,0,"46 Seats available
+23 Window"
+103,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Shub Yatra Holidays,A/C Sleeper (2+2),21:15,12h 45m,10:00,2.4,2399,"28 Seats available
+15 Window"
+104,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,FlixBus,A/C Sleeper (2+1),20:00,12h 20m,08:20,3.9,443,17 Seats available
+105,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Shiv Mohan Travels,AC Sleeper (2+1),20:30,12h 00m,08:30,3.7,0,36 Seats available
+106,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Lucky Bus Service,VE A/C Sleeper (2+2),21:15,10h 00m,07:15,3.6,1599,"32 Seats available
+16 Window"
+107,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Apex Bus Travels,A/C Seater / Sleeper (2+2),20:00,14h 00m,10:00,3.4,0,"52 Seats available
+26 Window"
+108,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Ashok Travels,A/C Seater / Sleeper (2+2),17:30,12h 30m,06:00,2.5,759,"52 Seats available
+27 Window"
+109,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,SHAH HOLIDAY TRAVEL,Bharat Benz A/C Seater / Sleeper (2+2),21:00,11h 00m,08:00,2.5,1499,22 Seats available
+110,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Armaan Tour & Travels,A/C Seater / Sleeper (2+1),16:00,14h 00m,06:00,2.4,0,"31 Seats available
+5 Single"
+111,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Travel Point World LLP,A/C Seater / Sleeper (2+2),20:00,12h 15m,08:15,1.7,0,"46 Seats available
+23 Window"
+112,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Big Bus,A/C Seater / Sleeper (2+2),21:00,11h 00m,08:00,1.4,799,"34 Seats available
+17 Window"
+113,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Big Bus,A/C Seater / Sleeper (2+2),18:30,11h 00m,05:30,1.4,795,"28 Seats available
+14 Window"
+114,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jammu (j and k) to Delhi,Sahiba Travels India Sahiba Bus Service Regd,A/C Sleeper (2+2),21:30,12h 01m,09:31,1.0,1800,22 Seats available
+115,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Gola Bus Service,A/C Seater/Sleeper (2+1),20:00,13h 00m,09:00,4.8,399,"24 Seats available
+6 Single"
+116,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),21:30,12h 45m,10:15,4.6,0,"29 Seats available
+5 Single"
+117,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),19:40,12h 35m,08:15,4.6,476,"24 Seats available
+7 Single"
+118,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),AdLaxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),19:30,13h 20m,08:50,4.3,0,"40 Seats available
+9 Single"
+119,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),,,,,,,0,
+120,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Gola Bus Service,A/C Seater/Sleeper (2+1),20:00,13h 00m,09:00,4.8,399,"24 Seats available
+6 Single"
+121,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),21:30,12h 45m,10:15,4.6,0,"29 Seats available
+5 Single"
+122,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),19:40,12h 35m,08:15,4.6,476,"24 Seats available
+7 Single"
+123,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),AdLaxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),19:30,13h 20m,08:50,4.3,0,"40 Seats available
+9 Single"
+124,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),20:25,09h 20m,05:45,4.4,0,23 Seats available
+125,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Laxmi holidays,Bharat Benz A/C Sleeper (2+1),22:30,13h 00m,11:30,4.4,0,29 Seats available
+126,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),17:00,13h 00m,06:00,4.3,0,"8 Seats available
+6 Single"
+127,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),AdB S Holiday Travels,A/C Seater / Sleeper (2+2),22:30,12h 30m,11:00,4.4,0,34 Seats available
+128,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Laxmi holidays,Bharat Benz A/C Sleeper (2+1),22:00,13h 00m,11:00,4.3,0,29 Seats available
+129,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),IntrCity SmartBus,AC Sleeper (2+1),20:45,12h 45m,09:30,4.4,636,"28 Seats available
+8 Single"
+130,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),R S YADAV SMART BUS PRIVATE LIMITED,VE A/C Seater / Sleeper (2+1),19:40,13h 40m,09:20,4.4,499,38 Seats available
+131,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Ram Dalal Holidays,A/C Seater/Sleeper (2+1),18:30,11h 55m,06:25,4.6,0,26 Seats available
+132,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,12h 30m,07:00,4.4,0,"23 Seats available
+7 Single"
+133,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Laxmi holidays,Bharat Benz A/C Sleeper (2+1),18:00,13h 00m,07:00,4.2,0,30 Seats available
+134,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),21:00,13h 00m,10:00,4.1,0,"46 Seats available
+12 Single"
+135,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:10,12h 30m,09:40,4.4,502,31 Seats available
+136,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Travel Point,A/C Seater / Sleeper (2+2),18:00,13h 15m,07:15,3.7,0,"36 Seats available
+18 Window"
+137,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Goel Tourist (Regd),A/C Seater / Sleeper (2+2),17:30,13h 00m,06:30,3.9,0,"42 Seats available
+24 Window"
+138,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),RK Holiday,A/C Seater / Sleeper (2+2),22:10,12h 45m,10:55,3.4,0,"32 Seats available
+17 Window"
+139,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Vaishnoyatra services pvt ltd,A/C Seater / Sleeper (2+2),20:30,11h 45m,08:15,0,550,37 Seats available
+140,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),17:00,12h 00m,05:00,0,0,31 Seats available
+141,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),IntrCity SmartBus,AC Sleeper (2+1),20:40,12h 45m,09:25,4.4,674,"32 Seats available
+12 Single"
+142,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Lavish Travels,A/C Seater / Sleeper (2+2),18:15,14h 00m,08:15,3.7,0,"35 Seats available
+18 Window"
+143,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),City Land Travels,A/C Seater/Sleeper (2+1),20:30,13h 00m,09:30,3.7,0,"32 Seats available
+5 Single"
+144,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Ashok Bus Service,VE A/C Seater / Sleeper (2+1),18:45,13h 30m,08:15,4.2,0,"39 Seats available
+16 Window"
+145,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Goel Tourist (Regd),A/C Seater / Sleeper (2+2),20:50,12h 10m,09:00,3.6,0,"44 Seats available
+25 Window"
+146,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Shub Yatra Holidays,A/C Sleeper (2+2),22:45,12h 15m,11:00,3.5,749,"30 Seats available
+16 Window"
+147,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Big Bus,A/C Seater / Sleeper (2+2),17:35,12h 00m,05:35,2.7,795,"39 Seats available
+20 Window"
+148,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Ashok Bus Service,A/C Seater / Sleeper (2+2),21:45,12h 45m,10:30,2.9,699,52 Seats available
+149,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),BSS COOL COOL TRAVELS,A/C Seater / Sleeper (2+2),19:30,12h 00m,07:30,4.5,498,"18 Seats available
+8 Window"
+150,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Travel Point,A/C Seater / Sleeper (2+2),22:30,12h 45m,11:15,3.7,0,"50 Seats available
+26 Window"
+151,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Ashok Bus Service,A/C Seater / Sleeper (2+2),23:55,11h 50m,11:45,1.6,699,"50 Seats available
+26 Window"
+152,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Deltin Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:30,12h 30m,10:00,3.8,550,33 Seats available
+153,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Travel Point World LLP,A/C Seater / Sleeper (2+2),18:30,13h 20m,07:50,3.5,999,"46 Seats available
+23 Window"
+154,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),DS Hari Travels,A/C Seater / Sleeper (2+2),21:00,13h 00m,10:00,2.7,499,"48 Seats available
+19 Window"
+155,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),YUVI HOLIDAYS,A/C Seater / Sleeper (2+2),21:00,13h 00m,10:00,1.7,0,"50 Seats available
+26 Window"
+156,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Travel Point,A/C Seater / Sleeper (2+2),21:30,12h 45m,10:15,2.3,0,"39 Seats available
+20 Window"
+157,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Armaan Tour & Travels,A/C Seater / Sleeper (2+1),14:00,14h 00m,04:00,1.6,0,"44 Seats available
+5 Single"
+158,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),City Land Travels,A/C Seater/Sleeper (2+1),23:00,12h 20m,11:20,3.4,0,"29 Seats available
+4 Single"
+159,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),KVS Holidays,A/C Seater / Sleeper (2+2),17:00,12h 30m,05:30,3.1,655,"42 Seats available
+21 Window"
+160,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),City Land Travels,A/C Seater/Sleeper (2+1),18:00,13h 30m,07:30,3.6,0,"30 Seats available
+5 Single"
+161,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Lucky Bus Service,VE A/C Sleeper (2+2),17:00,12h 30m,05:30,3.7,1799,"32 Seats available
+16 Window"
+162,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Big Bus,A/C Seater / Sleeper (2+2),20:30,10h 30m,07:00,2.8,755,"39 Seats available
+20 Window"
+163,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Red Apple Bus Service,A/C Seater / Sleeper (2+2),22:00,10h 30m,08:30,2.0,899,"24 Seats available
+12 Window"
+164,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Lucky Bus Service,VE A/C Sleeper (2+2),19:30,11h 50m,07:20,4.4,1799,"32 Seats available
+16 Window"
+165,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),NEW KING BUS SERVICE,A/C Seater / Sleeper (2+2),22:45,11h 25m,10:10,2.8,549,"28 Seats available
+14 Window"
+166,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Big Bus,A/C Seater / Sleeper (2+2),22:30,11h 30m,10:00,1.9,795,"40 Seats available
+20 Window"
+167,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Apex Bus Travels,A/C Seater / Sleeper (2+2),22:45,10h 00m,08:45,3.1,0,"37 Seats available
+19 Window"
+168,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Awadh Travels,A/C Sleeper (2+2),19:40,13h 00m,08:40,3.8,0,"39 Seats available
+20 Window"
+169,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),22:30,12h 00m,10:30,3.2,0,38 Seats available
+170,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),SHAH HOLIDAY TRAVEL,Bharat Benz A/C Seater / Sleeper (2+2),21:00,13h 00m,10:00,2.6,599,35 Seats available
+171,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Jamna Travels (Delhi),A/C Seater / Sleeper (2+2),20:00,13h 15m,09:15,2.5,949,"12 Seats available
+6 Window"
+172,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),15:30,12h 00m,03:30,3.0,0,39 Seats available
+173,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),20:30,12h 00m,08:30,3.2,0,36 Seats available
+174,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),MM Travels,A/C Seater / Sleeper (2+2),13:05,10h 50m,23:55,1.0,799,"38 Seats available
+20 Window"
+175,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Gola Bus Service,A/C Seater/Sleeper (2+1),20:00,13h 00m,09:00,4.8,399,"24 Seats available
+6 Single"
+176,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),21:30,12h 45m,10:15,4.6,0,"29 Seats available
+5 Single"
+177,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),19:40,12h 35m,08:15,4.6,476,"24 Seats available
+7 Single"
+178,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),AdLaxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),19:30,13h 20m,08:50,4.3,0,"40 Seats available
+9 Single"
+179,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),20:25,09h 20m,05:45,4.4,0,23 Seats available
+180,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Laxmi holidays,Bharat Benz A/C Sleeper (2+1),22:30,13h 00m,11:30,4.4,0,29 Seats available
+181,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),17:00,13h 00m,06:00,4.3,0,"8 Seats available
+6 Single"
+182,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),AdB S Holiday Travels,A/C Seater / Sleeper (2+2),22:30,12h 30m,11:00,4.4,0,34 Seats available
+183,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Laxmi holidays,Bharat Benz A/C Sleeper (2+1),22:00,13h 00m,11:00,4.3,0,29 Seats available
+184,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),IntrCity SmartBus,AC Sleeper (2+1),20:45,12h 45m,09:30,4.4,636,"28 Seats available
+8 Single"
+185,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),R S YADAV SMART BUS PRIVATE LIMITED,VE A/C Seater / Sleeper (2+1),19:40,13h 40m,09:20,4.4,499,38 Seats available
+186,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Ram Dalal Holidays,A/C Seater/Sleeper (2+1),18:30,11h 55m,06:25,4.6,0,26 Seats available
+187,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,12h 30m,07:00,4.4,0,"23 Seats available
+7 Single"
+188,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Laxmi holidays,Bharat Benz A/C Sleeper (2+1),18:00,13h 00m,07:00,4.2,0,30 Seats available
+189,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),21:00,13h 00m,10:00,4.1,0,"46 Seats available
+12 Single"
+190,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:10,12h 30m,09:40,4.4,502,31 Seats available
+191,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Travel Point,A/C Seater / Sleeper (2+2),18:00,13h 15m,07:15,3.7,0,"36 Seats available
+18 Window"
+192,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Goel Tourist (Regd),A/C Seater / Sleeper (2+2),17:30,13h 00m,06:30,3.9,0,"42 Seats available
+24 Window"
+193,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),RK Holiday,A/C Seater / Sleeper (2+2),22:10,12h 45m,10:55,3.4,0,"32 Seats available
+17 Window"
+194,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Vaishnoyatra services pvt ltd,A/C Seater / Sleeper (2+2),20:30,11h 45m,08:15,0,550,37 Seats available
+195,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),17:00,12h 00m,05:00,0,0,31 Seats available
+196,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),IntrCity SmartBus,AC Sleeper (2+1),20:40,12h 45m,09:25,4.4,674,"32 Seats available
+12 Single"
+197,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Lavish Travels,A/C Seater / Sleeper (2+2),18:15,14h 00m,08:15,3.7,0,"35 Seats available
+18 Window"
+198,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),City Land Travels,A/C Seater/Sleeper (2+1),20:30,13h 00m,09:30,3.7,0,"32 Seats available
+5 Single"
+199,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Ashok Bus Service,VE A/C Seater / Sleeper (2+1),18:45,13h 30m,08:15,4.2,0,"39 Seats available
+16 Window"
+200,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Goel Tourist (Regd),A/C Seater / Sleeper (2+2),20:50,12h 10m,09:00,3.6,0,"44 Seats available
+25 Window"
+201,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Shub Yatra Holidays,A/C Sleeper (2+2),22:45,12h 15m,11:00,3.5,749,"30 Seats available
+16 Window"
+202,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Big Bus,A/C Seater / Sleeper (2+2),17:35,12h 00m,05:35,2.7,795,"39 Seats available
+20 Window"
+203,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Ashok Bus Service,A/C Seater / Sleeper (2+2),21:45,12h 45m,10:30,2.9,699,52 Seats available
+204,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),BSS COOL COOL TRAVELS,A/C Seater / Sleeper (2+2),19:30,12h 00m,07:30,4.5,498,"18 Seats available
+8 Window"
+205,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Travel Point,A/C Seater / Sleeper (2+2),22:30,12h 45m,11:15,3.7,0,"50 Seats available
+26 Window"
+206,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Ashok Bus Service,A/C Seater / Sleeper (2+2),23:55,11h 50m,11:45,1.6,699,"50 Seats available
+26 Window"
+207,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Deltin Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:30,12h 30m,10:00,3.8,550,33 Seats available
+208,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Travel Point World LLP,A/C Seater / Sleeper (2+2),18:30,13h 20m,07:50,3.5,999,"46 Seats available
+23 Window"
+209,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),DS Hari Travels,A/C Seater / Sleeper (2+2),21:00,13h 00m,10:00,2.7,499,"48 Seats available
+19 Window"
+210,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),YUVI HOLIDAYS,A/C Seater / Sleeper (2+2),21:00,13h 00m,10:00,1.7,0,"50 Seats available
+26 Window"
+211,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Travel Point,A/C Seater / Sleeper (2+2),21:30,12h 45m,10:15,2.3,0,"39 Seats available
+20 Window"
+212,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Armaan Tour & Travels,A/C Seater / Sleeper (2+1),14:00,14h 00m,04:00,1.6,0,"44 Seats available
+5 Single"
+213,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),City Land Travels,A/C Seater/Sleeper (2+1),23:00,12h 20m,11:20,3.4,0,"29 Seats available
+4 Single"
+214,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),KVS Holidays,A/C Seater / Sleeper (2+2),17:00,12h 30m,05:30,3.1,655,"42 Seats available
+21 Window"
+215,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),City Land Travels,A/C Seater/Sleeper (2+1),18:00,13h 30m,07:30,3.6,0,"30 Seats available
+5 Single"
+216,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Lucky Bus Service,VE A/C Sleeper (2+2),17:00,12h 30m,05:30,3.7,1799,"32 Seats available
+16 Window"
+217,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Big Bus,A/C Seater / Sleeper (2+2),20:30,10h 30m,07:00,2.8,755,"39 Seats available
+20 Window"
+218,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Red Apple Bus Service,A/C Seater / Sleeper (2+2),22:00,10h 30m,08:30,2.0,899,"24 Seats available
+12 Window"
+219,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Lucky Bus Service,VE A/C Sleeper (2+2),19:30,11h 50m,07:20,4.4,1799,"32 Seats available
+16 Window"
+220,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),NEW KING BUS SERVICE,A/C Seater / Sleeper (2+2),22:45,11h 25m,10:10,2.8,549,"28 Seats available
+14 Window"
+221,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Big Bus,A/C Seater / Sleeper (2+2),22:30,11h 30m,10:00,1.9,795,"40 Seats available
+20 Window"
+222,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Apex Bus Travels,A/C Seater / Sleeper (2+2),22:45,10h 00m,08:45,3.1,0,"37 Seats available
+19 Window"
+223,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Awadh Travels,A/C Sleeper (2+2),19:40,13h 00m,08:40,3.8,0,"39 Seats available
+20 Window"
+224,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),22:30,12h 00m,10:30,3.2,0,38 Seats available
+225,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),SHAH HOLIDAY TRAVEL,Bharat Benz A/C Seater / Sleeper (2+2),21:00,13h 00m,10:00,2.6,599,35 Seats available
+226,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Jamna Travels (Delhi),A/C Seater / Sleeper (2+2),20:00,13h 15m,09:15,2.5,949,"12 Seats available
+6 Window"
+227,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),15:30,12h 00m,03:30,3.0,0,39 Seats available
+228,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),20:30,12h 00m,08:30,3.2,0,36 Seats available
+229,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),MM Travels,A/C Seater / Sleeper (2+2),13:05,10h 50m,23:55,1.0,799,"38 Seats available
+20 Window"
+230,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),BSS COOL COOL TRAVELS,A/C Seater / Sleeper (2+2),21:45,11h 45m,09:30,3.2,498,"29 Seats available
+14 Window"
+231,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),RK Holiday,A/C Seater / Sleeper (2+2),23:10,13h 20m,12:30,1.3,0,"29 Seats available
+14 Window"
+232,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Travel Point,A/C Seater / Sleeper (2+2),19:45,13h 15m,09:00,2.1,0,"36 Seats available
+18 Window"
+233,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Travel Point World LLP,A/C Seater / Sleeper (2+2),20:30,13h 20m,09:50,1.9,999,"46 Seats available
+23 Window"
+234,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Maheshwaram Travels,A/C Seater / Sleeper (2+2),19:00,12h 35m,07:35,1.1,626,34 Seats available
+235,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Lucky Bus Service,VE A/C Sleeper (2+2),18:00,12h 00m,06:00,1.9,1099,"32 Seats available
+16 Window"
+236,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Shiv Mohan Travels,AC Sleeper (2+1),18:20,14h 40m,09:00,4.3,0,31 Seats available
+237,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),B S Holiday Travels,A/C Seater / Sleeper (2+2),17:30,12h 25m,05:55,4.1,0,42 Seats available
+238,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),FlixBus,A/C Sleeper (2+1),18:30,13h 35m,08:05,4.0,566,17 Seats available
+239,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),FlixBus,A/C Sleeper (2+1),21:00,13h 35m,10:35,4.0,767,12 Seats available
+240,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),SPEED BUS,Volvo A/C Semi Sleeper (2+2),14:00,01h 00m,15:00,3.4,0,"40 Seats available
+19 Window"
+241,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),New National Travels,A/C Seater / Sleeper (2+2),22:30,12h 30m,11:00,3.1,1449,32 Seats available
+242,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Apex Bus Travels,A/C Seater / Sleeper (2+2),17:45,10h 00m,03:45,3.1,0,39 Seats available
+243,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Apex Bus Travels,A/C Seater / Sleeper (2+2),19:30,10h 00m,05:30,3.1,0,39 Seats available
+244,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Kedara Bus,AC Seater (2+2),19:00,12h 50m,07:50,2.9,0,"52 Seats available
+26 Window"
+245,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Big Bus,A/C Seater / Sleeper (2+2),15:30,12h 00m,03:30,2.6,795,"41 Seats available
+21 Window"
+246,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Jamna Travels (Delhi),A/C Seater / Sleeper (2+2),18:00,13h 15m,07:15,2.5,999,"24 Seats available
+12 Window"
+247,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Sahiba Travels India Sahiba Bus Service Regd,A/C Sleeper (2+2),17:00,13h 31m,06:31,1.0,1800,18 Seats available
+248,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),Sahiba Travels India Sahiba Bus Service Regd,A/C Sleeper (2+2),20:00,13h 31m,09:31,1.0,1800,20 Seats available
+249,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k),MM Travels,AC Seater (2+2),13:30,11h 30m,01:00,1.0,1599,35 Seats available
+250,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),Lavish Travels,A/C Seater / Sleeper (2+2),14:40,13h 55m,04:35,3.6,0,"30 Seats available
+14 Window"
+251,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),City Land Travels,A/C Seater/Sleeper (2+1),16:30,01h 20m,17:50,3.6,540,"36 Seats available
+10 Single"
+252,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),Shiv Mohan Travels,AC Sleeper (2+1),18:30,02h 00m,20:30,4.3,0,36 Seats available
+253,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),Shiv Mohan Travels,AC Sleeper (2+1),18:30,02h 00m,20:30,4.3,0,36 Seats available
+254,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),FlixBus,A/C Sleeper (2+1),18:30,01h 25m,19:55,4.0,121,23 Seats available
+255,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),Lavish Travels,A/C Seater / Sleeper (2+2),14:40,13h 55m,04:35,3.6,0,"30 Seats available
+14 Window"
+256,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),City Land Travels,A/C Seater/Sleeper (2+1),16:30,01h 20m,17:50,3.6,540,"36 Seats available
+10 Single"
+257,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),Shiv Mohan Travels,AC Sleeper (2+1),18:30,02h 00m,20:30,4.3,0,36 Seats available
+258,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),Shiv Mohan Travels,AC Sleeper (2+1),18:30,02h 00m,20:30,4.3,0,36 Seats available
+259,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),FlixBus,A/C Sleeper (2+1),18:30,01h 25m,19:55,4.0,121,23 Seats available
+260,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),18:45,01h 25m,20:10,4.3,103,36 Seats available
+261,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),VE A/C Seater / Sleeper (2+1),19:00,01h 00m,20:00,3.7,675,"38 Seats available
+10 Single"
+262,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),City Land Travels,A/C Seater/Sleeper (2+1),19:00,01h 30m,20:30,3.6,0,"32 Seats available
+9 Single"
+263,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),FlixBus,A/C Sleeper (2+1),21:00,01h 25m,22:25,4.0,121,36 Seats available
+264,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),Royal Golden,A/C Seater / Sleeper (2+2),13:00,01h 00m,14:00,2.1,0,31 Seats available
+265,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),14:20,01h 25m,15:45,1.2,0,"32 Seats available
+16 Window"
+266,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),Royal Golden,A/C Seater / Sleeper (2+2),23:00,01h 00m,00:00,2.1,0,"32 Seats available
+16 Window"
+267,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:00,01h 20m,00:20,1.2,0,"34 Seats available
+17 Window"
+268,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),VGO BUS,A/C Seater/Sleeper (2+1),18:30,01h 00m,19:30,4.1,1800,"40 Seats available
+26 Window"
+269,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),VE A/C Seater / Sleeper (2+1),20:00,01h 00m,21:00,3.7,1499,"38 Seats available
+10 Single"
+270,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),Lavish Travels,A/C Seater / Sleeper (2+2),14:40,13h 55m,04:35,3.6,0,"30 Seats available
+14 Window"
+271,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),City Land Travels,A/C Seater/Sleeper (2+1),16:30,01h 20m,17:50,3.6,540,"36 Seats available
+10 Single"
+272,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),Shiv Mohan Travels,AC Sleeper (2+1),18:30,02h 00m,20:30,4.3,0,36 Seats available
+273,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),Shiv Mohan Travels,AC Sleeper (2+1),18:30,02h 00m,20:30,4.3,0,36 Seats available
+274,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),FlixBus,A/C Sleeper (2+1),18:30,01h 25m,19:55,4.0,121,23 Seats available
+275,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),18:45,01h 25m,20:10,4.3,103,36 Seats available
+276,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),VE A/C Seater / Sleeper (2+1),19:00,01h 00m,20:00,3.7,675,"38 Seats available
+10 Single"
+277,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),City Land Travels,A/C Seater/Sleeper (2+1),19:00,01h 30m,20:30,3.6,0,"32 Seats available
+9 Single"
+278,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),FlixBus,A/C Sleeper (2+1),21:00,01h 25m,22:25,4.0,121,36 Seats available
+279,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),Royal Golden,A/C Seater / Sleeper (2+2),13:00,01h 00m,14:00,2.1,0,31 Seats available
+280,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),14:20,01h 25m,15:45,1.2,0,"32 Seats available
+16 Window"
+281,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),Royal Golden,A/C Seater / Sleeper (2+2),23:00,01h 00m,00:00,2.1,0,"32 Seats available
+16 Window"
+282,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:00,01h 20m,00:20,1.2,0,"34 Seats available
+17 Window"
+283,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),VGO BUS,A/C Seater/Sleeper (2+1),18:30,01h 00m,19:30,4.1,1800,"40 Seats available
+26 Window"
+284,https://www.redbus.in/bus-tickets/katra-to-jammu,Katra (jammu and kashmir) to Jammu (j and k),SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),VE A/C Seater / Sleeper (2+1),20:00,01h 00m,21:00,3.7,1499,"38 Seats available
+10 Single"
+285,https://www.redbus.in/bus-tickets/jammu-to-katra,Jammu (j and k) to Katra (jammu and kashmir),Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),20:30,01h 30m,22:00,3.7,0,"39 Seats available
+20 Window"
+286,https://www.redbus.in/bus-tickets/jammu-to-katra,Jammu (j and k) to Katra (jammu and kashmir),SPEED BUS,Volvo AC Seater (2+2),21:00,01h 30m,22:30,3.7,0,"43 Seats available
+11 Single"
+287,https://www.redbus.in/bus-tickets/jammu-to-katra,Jammu (j and k) to Katra (jammu and kashmir),Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),21:10,01h 00m,22:10,3.7,0,"32 Seats available
+16 Window"
+288,https://www.redbus.in/bus-tickets/jammu-to-katra,Jammu (j and k) to Katra (jammu and kashmir),Bhawani Travels,A/C Seater / Sleeper (2+2),19:50,01h 40m,21:30,2.0,270,"39 Seats available
+20 Window"
+289,https://www.redbus.in/bus-tickets/jammu-to-katra,Jammu (j and k) to Katra (jammu and kashmir),Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),20:30,01h 30m,22:00,3.7,0,"39 Seats available
+20 Window"
+290,https://www.redbus.in/bus-tickets/jammu-to-katra,Jammu (j and k) to Katra (jammu and kashmir),SPEED BUS,Volvo AC Seater (2+2),21:00,01h 30m,22:30,3.7,0,"43 Seats available
+11 Single"
+291,https://www.redbus.in/bus-tickets/jammu-to-katra,Jammu (j and k) to Katra (jammu and kashmir),Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),21:10,01h 00m,22:10,3.7,0,"32 Seats available
+16 Window"
+292,https://www.redbus.in/bus-tickets/jammu-to-katra,Jammu (j and k) to Katra (jammu and kashmir),Bhawani Travels,A/C Seater / Sleeper (2+2),19:50,01h 40m,21:30,2.0,270,"39 Seats available
+20 Window"
+293,https://www.redbus.in/bus-tickets/jammu-to-katra,Jammu (j and k) to Katra (jammu and kashmir),Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),20:30,01h 30m,22:00,3.7,0,"39 Seats available
+20 Window"
+294,https://www.redbus.in/bus-tickets/jammu-to-katra,Jammu (j and k) to Katra (jammu and kashmir),SPEED BUS,Volvo AC Seater (2+2),21:00,01h 30m,22:30,3.7,0,"43 Seats available
+11 Single"
+295,https://www.redbus.in/bus-tickets/jammu-to-katra,Jammu (j and k) to Katra (jammu and kashmir),Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),21:10,01h 00m,22:10,3.7,0,"32 Seats available
+16 Window"
+296,https://www.redbus.in/bus-tickets/jammu-to-katra,Jammu (j and k) to Katra (jammu and kashmir),Bhawani Travels,A/C Seater / Sleeper (2+2),19:50,01h 40m,21:30,2.0,270,"39 Seats available
+20 Window"
+297,https://www.redbus.in/bus-tickets/haridwar-to-jammu,Haridwar to Jammu (j and k),City Land Travels,A/C Seater/Sleeper (2+1),17:31,14h 29m,08:00,4.1,0,"26 Seats available
+5 Single"
+298,https://www.redbus.in/bus-tickets/haridwar-to-jammu,Haridwar to Jammu (j and k),SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),VE A/C Seater / Sleeper (2+1),18:20,12h 40m,07:00,3.8,3000,"30 Seats available
+8 Single"
+299,https://www.redbus.in/bus-tickets/haridwar-to-jammu,Haridwar to Jammu (j and k),Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),17:00,13h 00m,06:00,2.5,0,"38 Seats available
+5 Single"
+300,https://www.redbus.in/bus-tickets/haridwar-to-jammu,Haridwar to Jammu (j and k),City Land Travels,A/C Seater/Sleeper (2+1),17:40,12h 00m,05:40,2.7,0,"28 Seats available
+9 Single"
+301,https://www.redbus.in/bus-tickets/haridwar-to-jammu,Haridwar to Jammu (j and k),City Land Travels,A/C Seater/Sleeper (2+1),17:31,14h 29m,08:00,4.1,0,"26 Seats available
+5 Single"
+302,https://www.redbus.in/bus-tickets/haridwar-to-jammu,Haridwar to Jammu (j and k),SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),VE A/C Seater / Sleeper (2+1),18:20,12h 40m,07:00,3.8,3000,"30 Seats available
+8 Single"
+303,https://www.redbus.in/bus-tickets/haridwar-to-jammu,Haridwar to Jammu (j and k),Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),17:00,13h 00m,06:00,2.5,0,"38 Seats available
+5 Single"
+304,https://www.redbus.in/bus-tickets/haridwar-to-jammu,Haridwar to Jammu (j and k),City Land Travels,A/C Seater/Sleeper (2+1),17:40,12h 00m,05:40,2.7,0,"28 Seats available
+9 Single"
+305,https://www.redbus.in/bus-tickets/haridwar-to-jammu,Haridwar to Jammu (j and k),City Land Travels,A/C Seater/Sleeper (2+1),17:31,14h 29m,08:00,4.1,0,"26 Seats available
+5 Single"
+306,https://www.redbus.in/bus-tickets/haridwar-to-jammu,Haridwar to Jammu (j and k),SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),VE A/C Seater / Sleeper (2+1),18:20,12h 40m,07:00,3.8,3000,"30 Seats available
+8 Single"
+307,https://www.redbus.in/bus-tickets/haridwar-to-jammu,Haridwar to Jammu (j and k),Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),17:00,13h 00m,06:00,2.5,0,"38 Seats available
+5 Single"
+308,https://www.redbus.in/bus-tickets/haridwar-to-jammu,Haridwar to Jammu (j and k),City Land Travels,A/C Seater/Sleeper (2+1),17:40,12h 00m,05:40,2.7,0,"28 Seats available
+9 Single"
+309,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Chandigarh Transport Undertaking (CTU) - 165940,HVAC Seater (2+3),15:40,09h 25m,01:05,4.2,554.29,"47 Seats available
+18 Window"
+310,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:50,07h 10m,06:00,4.4,0,"40 Seats available
+6 Single"
+311,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Moon Light Travels Katra,A/C Sleeper (2+1),21:15,07h 15m,04:30,4.4,0,"16 Seats available
+3 Single"
+312,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),AdRadhe Travels,Bharat Benz A/C Sleeper (2+1),21:20,07h 25m,04:45,3.8,0,34 Seats available
+313,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),,,,,,,0,
+314,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Chandigarh Transport Undertaking (CTU) - 165940,HVAC Seater (2+3),15:40,09h 25m,01:05,4.2,554.29,"47 Seats available
+18 Window"
+315,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:50,07h 10m,06:00,4.4,0,"40 Seats available
+6 Single"
+316,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Moon Light Travels Katra,A/C Sleeper (2+1),21:15,07h 15m,04:30,4.4,0,"16 Seats available
+3 Single"
+317,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),AdRadhe Travels,Bharat Benz A/C Sleeper (2+1),21:20,07h 25m,04:45,3.8,0,34 Seats available
+318,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),23:05,06h 55m,06:00,4.3,0,"8 Seats available
+6 Single"
+319,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:30,07h 30m,07:00,4.5,0,15 Seats available
+320,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Zimindara Travels,A/C Seater / Sleeper (2+1),22:30,07h 00m,05:30,4.2,299,"33 Seats available
+5 Single"
+321,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),AdHarikesh Tour N Travels,A/C Sleeper (2+1),21:00,07h 30m,04:30,4.0,0,"24 Seats available
+7 Single"
+322,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),23:50,07h 10m,07:00,4.5,0,"23 Seats available
+7 Single"
+323,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Jamna Travels-Jammu,AshokLeyland Stile A/C,20:15,08h 15m,04:30,3.9,0,"26 Seats available
+5 Single"
+324,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Baru travels,A/C Seater / Sleeper (2+2),20:45,07h 30m,04:15,3.9,499,"40 Seats available
+22 Window"
+325,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Zimindara Travels,AC Sleeper (2+1),21:30,07h 00m,04:30,3.7,599,"26 Seats available
+16 Window"
+326,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Zimindara Travels,AC Sleeper (2+1),22:00,07h 00m,05:00,3.6,599,"24 Seats available
+13 Window"
+327,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),21:30,06h 00m,03:30,0,0,39 Seats available
+328,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),23:00,06h 00m,05:00,0,0,31 Seats available
+329,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),PRAKASH TOURISM,A/C Seater / Sleeper (2+2),22:05,08h 00m,06:05,0,1200,46 Seats available
+330,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),New Pal Travels,A/C Sleeper (2+1),19:30,10h 15m,05:45,3.7,0,"34 Seats available
+10 Single"
+331,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),SAHARA TRAVELS,A/C Seater / Sleeper (2+2),21:15,08h 00m,05:15,2.6,0,"38 Seats available
+19 Window"
+332,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Radhe Travels,Bharat Benz A/C Sleeper (2+1),21:30,07h 15m,04:45,4.2,0,29 Seats available
+333,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Orbit Aviation Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),13:40,07h 00m,20:40,3.6,0,34 Seats available
+334,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),SPEED BUS,Volvo AC Seater (2+2),14:30,06h 30m,21:00,3.2,0,"40 Seats available
+9 Single"
+335,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),VE A/C Seater / Sleeper (2+1),23:30,07h 30m,07:00,3.5,800,"30 Seats available
+8 Single"
+336,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Orbit Aviation Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),13:47,06h 53m,20:40,3.7,0,35 Seats available
+337,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Orbit Aviation Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),13:45,06h 55m,20:40,3.7,0,35 Seats available
+338,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Khurana Bus Service,Volvo A/C (2+2),14:20,06h 40m,21:00,3.1,0,"24 Seats available
+11 Window"
+339,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),GOBUS,A/C Seater / Sleeper (2+2),22:05,07h 30m,05:35,3.0,749,"50 Seats available
+26 Window"
+340,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),GOBUS,A/C Seater / Sleeper (2+2),22:05,07h 30m,05:35,3.2,749,"50 Seats available
+26 Window"
+341,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),SAHARA TRAVELS,A/C Sleeper (2+2),22:00,07h 35m,05:35,3.4,0,"14 Seats available
+7 Window"
+342,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),City Land Travels,A/C Seater/Sleeper (2+1),23:50,07h 40m,07:30,3.1,0,"30 Seats available
+5 Single"
+343,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Khurana Bus Service,Volvo A/C (2+2),14:25,06h 35m,21:00,3.0,0,"15 Seats available
+6 Window"
+344,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Goel Tourist (Regd),A/C Seater / Sleeper (2+2),23:15,07h 15m,06:30,2.6,499,"44 Seats available
+25 Window"
+345,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),GK Travels,A/C Seater/Sleeper (2+1),23:45,06h 45m,06:30,2.9,799,"33 Seats available
+2 Single"
+346,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:30,07h 30m,06:00,1.9,0,"38 Seats available
+5 Single"
+347,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),GK Travels,A/C Seater/Sleeper (2+1),23:55,06h 35m,06:30,2.2,799,"37 Seats available
+5 Single"
+348,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Maheshwaram Travels,A/C Seater / Sleeper (2+2),21:00,10h 35m,07:35,1.0,626,34 Seats available
+349,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),DS Hari Travels,A/C Sleeper (2+2),21:15,07h 45m,05:00,1.1,699,"44 Seats available
+22 Window"
+350,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Big Bus,A/C Seater / Sleeper (2+2),22:25,07h 10m,05:35,2.6,795,"39 Seats available
+20 Window"
+351,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),SPEED BUS,Volvo A/C Semi Sleeper (2+2),20:30,18h 30m,15:00,3.7,0,"41 Seats available
+20 Window"
+352,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),City Land Travels,A/C Seater/Sleeper (2+1),23:15,06h 25m,05:40,3.6,0,"31 Seats available
+5 Single"
+353,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Jamna Travels (Delhi),A/C Seater / Sleeper (2+2),23:29,07h 46m,07:15,3.4,999,"24 Seats available
+12 Window"
+354,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Apex Bus Travels,A/C Seater / Sleeper (2+2),22:15,05h 30m,03:45,3.4,0,39 Seats available
+355,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Big Bus,A/C Seater / Sleeper (2+2),20:20,07h 10m,03:30,2.6,795,"41 Seats available
+21 Window"
+356,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Chandigarh Transport Undertaking (CTU) - 165940,HVAC Seater (2+3),15:40,09h 25m,01:05,4.2,554.29,"47 Seats available
+18 Window"
+357,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:50,07h 10m,06:00,4.4,0,"40 Seats available
+6 Single"
+358,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Moon Light Travels Katra,A/C Sleeper (2+1),21:15,07h 15m,04:30,4.4,0,"16 Seats available
+3 Single"
+359,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),AdRadhe Travels,Bharat Benz A/C Sleeper (2+1),21:20,07h 25m,04:45,3.8,0,34 Seats available
+360,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),23:05,06h 55m,06:00,4.3,0,"8 Seats available
+6 Single"
+361,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:30,07h 30m,07:00,4.5,0,15 Seats available
+362,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Zimindara Travels,A/C Seater / Sleeper (2+1),22:30,07h 00m,05:30,4.2,299,"33 Seats available
+5 Single"
+363,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),AdHarikesh Tour N Travels,A/C Sleeper (2+1),21:00,07h 30m,04:30,4.0,0,"24 Seats available
+7 Single"
+364,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),23:50,07h 10m,07:00,4.5,0,"23 Seats available
+7 Single"
+365,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Jamna Travels-Jammu,AshokLeyland Stile A/C,20:15,08h 15m,04:30,3.9,0,"26 Seats available
+5 Single"
+366,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Baru travels,A/C Seater / Sleeper (2+2),20:45,07h 30m,04:15,3.9,499,"40 Seats available
+22 Window"
+367,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Zimindara Travels,AC Sleeper (2+1),21:30,07h 00m,04:30,3.7,599,"26 Seats available
+16 Window"
+368,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Zimindara Travels,AC Sleeper (2+1),22:00,07h 00m,05:00,3.6,599,"24 Seats available
+13 Window"
+369,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),21:30,06h 00m,03:30,0,0,39 Seats available
+370,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),23:00,06h 00m,05:00,0,0,31 Seats available
+371,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),PRAKASH TOURISM,A/C Seater / Sleeper (2+2),22:05,08h 00m,06:05,0,1200,46 Seats available
+372,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),New Pal Travels,A/C Sleeper (2+1),19:30,10h 15m,05:45,3.7,0,"34 Seats available
+10 Single"
+373,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),SAHARA TRAVELS,A/C Seater / Sleeper (2+2),21:15,08h 00m,05:15,2.6,0,"38 Seats available
+19 Window"
+374,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Radhe Travels,Bharat Benz A/C Sleeper (2+1),21:30,07h 15m,04:45,4.2,0,29 Seats available
+375,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Orbit Aviation Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),13:40,07h 00m,20:40,3.6,0,34 Seats available
+376,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),SPEED BUS,Volvo AC Seater (2+2),14:30,06h 30m,21:00,3.2,0,"40 Seats available
+9 Single"
+377,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),VE A/C Seater / Sleeper (2+1),23:30,07h 30m,07:00,3.5,800,"30 Seats available
+8 Single"
+378,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Orbit Aviation Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),13:47,06h 53m,20:40,3.7,0,35 Seats available
+379,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Orbit Aviation Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),13:45,06h 55m,20:40,3.7,0,35 Seats available
+380,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Khurana Bus Service,Volvo A/C (2+2),14:20,06h 40m,21:00,3.1,0,"24 Seats available
+11 Window"
+381,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),GOBUS,A/C Seater / Sleeper (2+2),22:05,07h 30m,05:35,3.0,749,"50 Seats available
+26 Window"
+382,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),GOBUS,A/C Seater / Sleeper (2+2),22:05,07h 30m,05:35,3.2,749,"50 Seats available
+26 Window"
+383,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),SAHARA TRAVELS,A/C Sleeper (2+2),22:00,07h 35m,05:35,3.4,0,"14 Seats available
+7 Window"
+384,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),City Land Travels,A/C Seater/Sleeper (2+1),23:50,07h 40m,07:30,3.1,0,"30 Seats available
+5 Single"
+385,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Khurana Bus Service,Volvo A/C (2+2),14:25,06h 35m,21:00,3.0,0,"15 Seats available
+6 Window"
+386,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Goel Tourist (Regd),A/C Seater / Sleeper (2+2),23:15,07h 15m,06:30,2.6,499,"44 Seats available
+25 Window"
+387,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),GK Travels,A/C Seater/Sleeper (2+1),23:45,06h 45m,06:30,2.9,799,"33 Seats available
+2 Single"
+388,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:30,07h 30m,06:00,1.9,0,"38 Seats available
+5 Single"
+389,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),GK Travels,A/C Seater/Sleeper (2+1),23:55,06h 35m,06:30,2.2,799,"37 Seats available
+5 Single"
+390,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Maheshwaram Travels,A/C Seater / Sleeper (2+2),21:00,10h 35m,07:35,1.0,626,34 Seats available
+391,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),DS Hari Travels,A/C Sleeper (2+2),21:15,07h 45m,05:00,1.1,699,"44 Seats available
+22 Window"
+392,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Big Bus,A/C Seater / Sleeper (2+2),22:25,07h 10m,05:35,2.6,795,"39 Seats available
+20 Window"
+393,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),SPEED BUS,Volvo A/C Semi Sleeper (2+2),20:30,18h 30m,15:00,3.7,0,"41 Seats available
+20 Window"
+394,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),City Land Travels,A/C Seater/Sleeper (2+1),23:15,06h 25m,05:40,3.6,0,"31 Seats available
+5 Single"
+395,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Jamna Travels (Delhi),A/C Seater / Sleeper (2+2),23:29,07h 46m,07:15,3.4,999,"24 Seats available
+12 Window"
+396,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Apex Bus Travels,A/C Seater / Sleeper (2+2),22:15,05h 30m,03:45,3.4,0,39 Seats available
+397,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh to Jammu (j and k),Big Bus,A/C Seater / Sleeper (2+2),20:20,07h 10m,03:30,2.6,795,"41 Seats available
+21 Window"
+398,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Bhawani Travels,A/C Seater / Sleeper (2+2),13:20,05h 00m,18:20,3.6,0,"25 Seats available
+13 Window"
+399,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Bhawani Travels,VE A/C Seater (2+2),14:10,05h 00m,19:10,4.3,0,"36 Seats available
+16 Window"
+400,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,CHANDRA RAJ TRAVELS,Bharat Benz A/C Sleeper (2+1),14:15,04h 35m,18:50,4.0,500,"23 Seats available
+11 Window"
+401,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Jamna Travels-Jammu,A/C Seater Push Back (2+2),14:30,03h 52m,18:22,3.4,0,23 Seats available
+402,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,,,,,,,0,
+403,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Bhawani Travels,A/C Seater / Sleeper (2+2),13:20,05h 00m,18:20,3.6,0,"25 Seats available
+13 Window"
+404,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Bhawani Travels,VE A/C Seater (2+2),14:10,05h 00m,19:10,4.3,0,"36 Seats available
+16 Window"
+405,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,CHANDRA RAJ TRAVELS,Bharat Benz A/C Sleeper (2+1),14:15,04h 35m,18:50,4.0,500,"23 Seats available
+11 Window"
+406,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Jamna Travels-Jammu,A/C Seater Push Back (2+2),14:30,03h 52m,18:22,3.4,0,23 Seats available
+407,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Bhawani Travels,A/C Sleeper (2+2),14:30,06h 00m,20:30,3.1,0,"5 Seats available
+3 Window"
+408,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,RATHORE TRAVELS AGENCY,A/C Seater / Sleeper (2+1),14:30,05h 00m,19:30,4.1,500,"24 Seats available
+1 Single"
+409,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Jain travels regd,AC Sleeper (2+1),15:15,04h 45m,20:00,3.3,500,"23 Seats available
+14 Window"
+410,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,AdJamna Travels-Jammu,A/C Seater / Sleeper (2+2),22:30,05h 15m,03:45,3.4,0,"27 Seats available
+13 Window"
+411,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Bhawani Travels,Bharat Benz A/C Seater (2+2),16:30,04h 35m,21:05,3.3,0,"25 Seats available
+10 Window"
+412,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Bhawani Travels,Bharat Benz A/C Seater (2+2),18:30,04h 45m,23:15,3.6,299,"22 Seats available
+10 Window"
+413,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Bhawani Travels,A/C Seater / Sleeper (2+2),23:00,05h 30m,04:30,4.0,0,43 Seats available
+414,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Awadh Travels,A/C Sleeper (2+2),23:35,04h 45m,04:20,3.6,0,"40 Seats available
+20 Window"
+415,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Shree Bawa Lal Ji Travels,A/C Seater / Sleeper (2+2),15:30,05h 15m,20:45,0,0,44 Seats available
+416,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),15:45,06h 15m,22:00,2.1,0,"30 Seats available
+15 Window"
+417,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Jamna Travels-Jammu,A/C Seater Push Back (2+2),16:30,04h 15m,20:45,2.9,0,33 Seats available
+418,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Vijay Tour and Travels,A/C Seater / Sleeper (2+1),17:15,04h 35m,21:50,2.2,0,"38 Seats available
+5 Single"
+419,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Jamna Travels-Jammu,A/C Seater Push Back (2+2),18:30,03h 52m,22:22,1.9,0,20 Seats available
+420,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),18:50,04h 50m,23:40,2.2,0,"31 Seats available
+4 Single"
+421,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Lucky Travels,Bharat Benz A/C Seater / Sleeper (2+2),23:55,05h 35m,05:30,2.8,329,"52 Seats available
+1 Single"
+422,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Gajraj bus service,Bharat Benz A/C Sleeper (2+1),18:30,05h 25m,23:55,3.9,899,"17 Seats available
+12 Window"
+423,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Royal Golden,A/C Seater / Sleeper (2+2),14:00,750h 00m,20:00,1.8,0,35 Seats available
+424,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Vijay Tour and Travels,AC Sleeper (2+1),14:30,05h 10m,19:40,2.2,0,"34 Seats available
+10 Single"
+425,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Neeraj travels,A/C Seater / Sleeper (2+1),15:40,04h 32m,20:12,2.5,599,"25 Seats available
+1 Single"
+426,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Vijay Tour and Travels,Bharat Benz A/C Sleeper (2+1),16:30,04h 30m,21:00,2.2,0,"30 Seats available
+20 Window"
+427,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Bhawani Travels,A/C Seater / Sleeper (2+2),13:20,05h 00m,18:20,3.6,0,"25 Seats available
+13 Window"
+428,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Bhawani Travels,VE A/C Seater (2+2),14:10,05h 00m,19:10,4.3,0,"36 Seats available
+16 Window"
+429,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,CHANDRA RAJ TRAVELS,Bharat Benz A/C Sleeper (2+1),14:15,04h 35m,18:50,4.0,500,"23 Seats available
+11 Window"
+430,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Jamna Travels-Jammu,A/C Seater Push Back (2+2),14:30,03h 52m,18:22,3.4,0,23 Seats available
+431,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Bhawani Travels,A/C Sleeper (2+2),14:30,06h 00m,20:30,3.1,0,"5 Seats available
+3 Window"
+432,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,RATHORE TRAVELS AGENCY,A/C Seater / Sleeper (2+1),14:30,05h 00m,19:30,4.1,500,"24 Seats available
+1 Single"
+433,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Jain travels regd,AC Sleeper (2+1),15:15,04h 45m,20:00,3.3,500,"23 Seats available
+14 Window"
+434,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,AdJamna Travels-Jammu,A/C Seater / Sleeper (2+2),22:30,05h 15m,03:45,3.4,0,"27 Seats available
+13 Window"
+435,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Bhawani Travels,Bharat Benz A/C Seater (2+2),16:30,04h 35m,21:05,3.3,0,"25 Seats available
+10 Window"
+436,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Bhawani Travels,Bharat Benz A/C Seater (2+2),18:30,04h 45m,23:15,3.6,299,"22 Seats available
+10 Window"
+437,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Bhawani Travels,A/C Seater / Sleeper (2+2),23:00,05h 30m,04:30,4.0,0,43 Seats available
+438,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Awadh Travels,A/C Sleeper (2+2),23:35,04h 45m,04:20,3.6,0,"40 Seats available
+20 Window"
+439,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Shree Bawa Lal Ji Travels,A/C Seater / Sleeper (2+2),15:30,05h 15m,20:45,0,0,44 Seats available
+440,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),15:45,06h 15m,22:00,2.1,0,"30 Seats available
+15 Window"
+441,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Jamna Travels-Jammu,A/C Seater Push Back (2+2),16:30,04h 15m,20:45,2.9,0,33 Seats available
+442,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Vijay Tour and Travels,A/C Seater / Sleeper (2+1),17:15,04h 35m,21:50,2.2,0,"38 Seats available
+5 Single"
+443,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Jamna Travels-Jammu,A/C Seater Push Back (2+2),18:30,03h 52m,22:22,1.9,0,20 Seats available
+444,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),18:50,04h 50m,23:40,2.2,0,"31 Seats available
+4 Single"
+445,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Lucky Travels,Bharat Benz A/C Seater / Sleeper (2+2),23:55,05h 35m,05:30,2.8,329,"52 Seats available
+1 Single"
+446,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Gajraj bus service,Bharat Benz A/C Sleeper (2+1),18:30,05h 25m,23:55,3.9,899,"17 Seats available
+12 Window"
+447,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Royal Golden,A/C Seater / Sleeper (2+2),14:00,750h 00m,20:00,1.8,0,35 Seats available
+448,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Vijay Tour and Travels,AC Sleeper (2+1),14:30,05h 10m,19:40,2.2,0,"34 Seats available
+10 Single"
+449,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Neeraj travels,A/C Seater / Sleeper (2+1),15:40,04h 32m,20:12,2.5,599,"25 Seats available
+1 Single"
+450,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jammu (j and k) to Amritsar,Vijay Tour and Travels,Bharat Benz A/C Sleeper (2+1),16:30,04h 30m,21:00,2.2,0,"30 Seats available
+20 Window"
+451,https://www.redbus.in/bus-tickets/ajmer-to-jammu,Ajmer to Jammu (j and k),Vijay Tour and Travels,A/C Seater / Sleeper (2+1),15:00,17h 50m,08:50,3.2,0,"14 Seats available
+1 Single"
+452,https://www.redbus.in/bus-tickets/ajmer-to-jammu,Ajmer to Jammu (j and k),Vijay Tour and Travels,A/C Seater / Sleeper (2+1),15:00,17h 50m,08:50,3.2,0,"14 Seats available
+1 Single"
+453,https://www.redbus.in/bus-tickets/ajmer-to-jammu,Ajmer to Jammu (j and k),Vijay Tour and Travels,A/C Seater / Sleeper (2+1),15:00,17h 50m,08:50,3.2,0,"14 Seats available
+1 Single"
